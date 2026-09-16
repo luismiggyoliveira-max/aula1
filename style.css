@@ -1,0 +1,12 @@
+h1{
+    color:blue;
+    text-align: center;
+}
+.texto-secundário{
+    color:aqua;
+    margin-left:20px;
+
+}
+#negrito{
+    text-decoration:underline;
+}
